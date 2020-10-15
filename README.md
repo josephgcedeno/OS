@@ -1,8 +1,8 @@
 # Operating System Final Exam Source Code
 
-- [x] First Come First Serve (FCFS)<br>
+- [x] __First Come First Serve (FCFS)__ <br>
    ![](./FCFS.PNG)
-- [x] Shortest Job First <br>
+- [x] __Shortest Job First (JFS)__ <br>
    ![](./JFS.PNG)
 
  
